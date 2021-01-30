@@ -1,11 +1,14 @@
-Replace this with a list of your favorite things.
-<list type="ol">
-  <li> 1 </li>
-    <li>  2</li>
-    <li>3</li>
-  </list>
-  <list type="ul">
-  <li> 1 </li>
-    <li>  2</li>
-    <li>3</li>
-  </list>
+emoji
+:heart:
+:smiles:
+ol list
+1. i1
+2. i2
+3. i3
+   1. i3a
+   2. i3b
+ul list
+* i1
+* i2
+* i3
+  * i3a
